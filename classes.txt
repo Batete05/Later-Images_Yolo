@@ -1,0 +1,93 @@
+dog
+person
+cat
+tv
+car
+meatballs
+marinara sauce
+tomato soup
+chicken noodle soup
+french onion soup
+chicken breast
+ribs
+pulled pork
+hamburger
+cavity
+plak 1
+plank 2
+plank 3
+plank 4
+plateN 5
+plateN 6
+plateN 7
+plateN 7 2
+plateN 8
+plateN 9
+plateN 10
+plateN 11
+plateN 12
+plateN 13
+plateN 14
+plateN 15
+plateN 15 2
+plateN 16
+plateN 17
+plateN 18
+plateN 19
+plateN 20
+plateN 21
+plateN 22
+plateN 23
+plateN 24
+plateN 25
+plateN 26
+plateN 26 2
+RAD 820 U
+R A F 7 6 7 L
+R A E 4 7 6 L
+RAF797U
+RAE708N
+RAD 2 3 8 7
+RAE476L
+RAE026A
+RAE 476 L
+GR 952 D
+RAF 797 U
+RAF 767 L
+RAF 140 C
+RAF 455 G
+GR 226 F
+plate unclear
+RAF335P
+RAE 767 L
+RAD7518
+RAC748X
+RAF553S
+RAG 190 D
+RAG 574 F
+RAD 685 G
+RAE885W
+RAE 888 P
+RAA 427 Z
+RAC 902 M
+RAF 467 L
+RAE 467 L
+RAE 026 A
+RAE 452 Q
+RAD238Z
+RAF337X
+RAE 388 U
+RAG258B
+RAD994H
+RAG911B
+RAG120C
+RAG119H
+RAE 734 W
+RAE 325K
+RAF 509 Q
+RAE 434 L
+RAE 300H
+RAC 868 Z
+RAF626 B
+RAH972U
+RAH 972 U
